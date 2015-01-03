@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zanzibar.PhotoViewr.API", "Zanzibar.PhotoViewr.API\Zanzibar.PhotoViewr.API.csproj", "{F9ED30E4-D558-4963-999C-4A41BAB31036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zanzibar.PhotoViewer.Desktop", "Zanzibar.PhotoViewer.Desktop\Zanzibar.PhotoViewer.Desktop.csproj", "{D13F8ED8-6F8D-4F85-8BBC-224078F0EBC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9ED30E4-D558-4963-999C-4A41BAB31036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9ED30E4-D558-4963-999C-4A41BAB31036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9ED30E4-D558-4963-999C-4A41BAB31036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9ED30E4-D558-4963-999C-4A41BAB31036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D13F8ED8-6F8D-4F85-8BBC-224078F0EBC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13F8ED8-6F8D-4F85-8BBC-224078F0EBC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13F8ED8-6F8D-4F85-8BBC-224078F0EBC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13F8ED8-6F8D-4F85-8BBC-224078F0EBC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
